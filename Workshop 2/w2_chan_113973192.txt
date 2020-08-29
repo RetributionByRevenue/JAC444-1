@@ -1,0 +1,26 @@
+/**********************************************
+Workshop #2 Course:JAC444 -Semester 4
+Last Name:Chan
+First Name:Daryan
+ID:113973192
+Section:<section name>
+This assignment represents my own work in accordance with Seneca Academic Policy.
+Signature Daryan Chan
+Date: 6/7/2020
+**********************************************/
+
+Reflection
+
+For this workshop, I've reinforced my knowledge and ability to use arrays. For this workshop, I've also learned to utilize
+some of java's built in function, such as import java.text.DecimalFormat. This allows me to use the new DecimalFormat().format()
+to round numbers. I've also utilized the constructors in java. Although I'm still not that confident in my programming, I do
+feel more comfortable with java than last week. 
+
+As to how to run the code, just hit the run button and the console will display command prompts. The first prompt will show
+what the user would like to do and will display 3 options. The first option is compute personal income tax. Second option is
+to show a tax table. Third option will exit the program. For the first option, it will display 4 statuses and the user will
+have to choose which status best represents them. Once that is chosen, they have to enter their income so that the correct 
+tax rate will be used to calculate how much tax they have to pay. If the user chose option 2 in the first menu, then they will
+be prompted to enter a range. Once they pressed enter, it will display a table of each tax category and basically shows how much 
+taxes will be owed within the range they entered. The table will show tax rates from 2001 and 2009. Lastly, should the user
+enter 3, then the program will end. 
