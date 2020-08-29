@@ -1,0 +1,27 @@
+Name: Daryan Chan
+ID: 113973192
+Section: NAA
+
+Workshop 4 reflection
+
+The thing I learned from this workshop is learning how to read a file and finding ways to copy its content into an array. 
+This workshop helped me to learn more and code utilizing IO features. This workshop also challenged me in doing external
+researches, such as utilizing the Random class methods to help me choose a random word for task 1. Doing this workshop also
+helped me polish my java coding skills and encouraging me to do some research and self teaching. 
+
+task 1
+
+The most challenging part of this task is coming up with the logic for the hangman game. Coming up with how to match the character
+with the game word and releaving the hidden word was the most challenging part. 
+
+To run this program, simply press the run button and follow the command prompts. It will prompt you to enter a guess. Enter a single
+character and then press enter. Repeat this process whenever prompted until the word is revealed. 
+
+task 2
+
+The hardest part of this task was coming up with the for loop that will match the lower and upper case alphabets with the 
+file content. I finally figured out this problem by creating a separate array for lower and upper case of alphabets and 
+doing a nested loop so each case sensitive alphabet array can scan through each alphabet in each word string. 
+
+To run this program, simply enter the name of the file. The filename I created for this program is task2.txt. Enter this name
+when prompted and then it will display all the number of occurence for each alphabet. 
