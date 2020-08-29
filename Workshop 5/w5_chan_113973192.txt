@@ -1,0 +1,25 @@
+Name: Daryan chan
+ID: 113973192
+Course: JAC444
+Workshop: 5
+
+Reflection
+
+Task 1
+
+I learned how to create my first GUI application. Althought it wasn't the prettiest thing, the elements were all there. This 
+includes having the proper texts, having a textfield for the user to type in, a choicebox for the user to select their desired
+option, and buttons. The hardest thing about this task was that I was very unfamiliar with this as I've never design and built 
+an application before. Therefore, I had to watch many youtube tutorials, even for creating simple things such as textfields,
+choicebox, etc. 
+
+task 2
+
+I learned how to use RandomAccessFiles. The challenging part of this was figuring out how to tie everything together. What I mean
+is how to extract the data the user inputted and copy it into the textfile. This was the part of the workshop I spent the most time
+on. 
+
+To run the code, simply press run and an application will be created. Simply enter the data into the textfield and choose the
+desired option in the ChoiceBox. Click add and the data will be stored. Simply add more as desired the data will be added. To
+update the file, simply press the next, previous, first, last buttons until the data you want to change appears. When you changed
+the data you wanted, simply press update. 
