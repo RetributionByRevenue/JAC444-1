@@ -1,0 +1,14 @@
+Name: Daryan Chan
+ID: 113973192
+Section: NAA
+
+task 1
+
+I learned about threads and how to record execution time for this task. The hardest part of this task was trying to figure out
+how to add the matrixes and I had to google it. To run this task, simply hit the run button and the execution run time
+for parallel and sequential run time will be shown.
+
+task 2
+
+I learned more about threads. The hardest part was trying to figure out how to make a thread create another thread. To run this
+task, simply hit the run button and you will see the messages from each thread.  
