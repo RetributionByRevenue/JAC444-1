@@ -1,0 +1,14 @@
+Name: Daryan Chan
+ID: 113973192
+Section: NAA
+
+Task 1 reflection
+
+for this task, I learned how to implement cloneable and use comparable<Time>. Also enhanced my skills with working with 
+time in java. I found this task to be relatively straight forward. 
+
+To run this task, simply press the run button and enter the required data when prompted. 
+
+Task 2
+
+was not able to complete this. Hardest part of this task is the intricacies of this task. 
