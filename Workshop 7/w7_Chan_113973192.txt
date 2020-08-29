@@ -1,0 +1,17 @@
+Name: Daryan Chan
+ID: 113973192
+Section: NAA
+
+Task 1 Reflection
+
+For this task, I learned about List and collection interfaces. This also helped reinforced my knowledge of Java I/O and some 
+of the features related with the List class, ex: reverse, retainAll, removeAll, etc. The hardest part was devising a way
+to find common elements from 2 lists, which I was able to solve thanks to some research. To run this task, simply hit the 
+run button and follow the instruction prompts. It will ask if you want to run the program or not. Answer, and then when 
+prompted, enter the file name you want. Then it will display the names in many ways (common names, list with common names 
+removed, etc)
+
+Task 2 Reflection
+
+The learning from this task is the same for my task 1. To run, simply follow the prompts. It will ask which country's capital 
+city you want to see. After you entered your choice, it will show the city. 
