@@ -1,0 +1,24 @@
+/**********************************************
+Workshop #3
+Course:JAC444 -Semester 4
+Last Name:Chan
+First Name:Daryan
+ID:113973192 
+Section: NAA
+This assignment represents my own work in accordance with Seneca Academic Policy.
+Signature Daryan Chan
+Date:6/14/2020
+**********************************************/
+
+Workshop 3 Reflection 
+
+I learned how to utilize interface and abstract classes in this workshop and have become more familiar to polymorphism and
+inheritance. This workshop also aided in my understanding of superclasses and subclasses and the concepts that belong to it,
+such as the use of the keyword super and perfecting my uses in the getter and setter methods. Finally, it is reintroducing
+the exception handling concepts to me.
+
+The one thing that I find that was somewhat difficult in this workshop was trying to do the exception handling since I forgot
+everything I knew about it from last semester. As such, I had to watch some youtube tutorials before I could attempt it. 
+
+As for instructions on running the code, it is fairly simple as it doesn't require the user to input anything. Just run the 
+code and all the data will be presented. 
