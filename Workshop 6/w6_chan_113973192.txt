@@ -1,0 +1,22 @@
+Name: Daryan Chan
+ID: 113973102
+Section: NAA
+Course: JAC444
+
+task1 reflection
+
+For this task, I've reinforced my understanding with JavaFX and was able to create a new GUI. Also, I'm more confident using
+event handling and was able to apply my knowledge of using FileReader with combination of Scanner to read the file and saving
+the data within an array. The one thing that I had to research for was how to switch to a completely new scene when a button
+is pressed. 
+
+To run this program, simply press the run button and a Java application will appear. When it does, simply enter the correct
+info within the textfield and press enter. This will take you to a new Scene and display the result in a textfield. To search
+for another name, press yes. To exit, press no. 
+
+Task2 reflection
+
+For this task, I've been exposed to lambda expressions and was only somewhat able to grasp its concept. It required a fair amount
+of self learning on my part and even so, I am not fairly confident using it. As such, I found task 2 to be considerably harder.
+Therefore, I know I wasn't able to accomplish everything that is required for this task. To run this program, press run and 
+enter the values as prompted. Then press enter and the result will show itself. 
