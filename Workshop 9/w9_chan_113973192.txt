@@ -1,0 +1,10 @@
+Name: Daryan chan
+ID: 113973192
+
+Reflection
+For this task, the most challenging part of this was trying to establish connection between the clients with server. I had to 
+watch many youtube tutorials to get started. In the end, I've learned how to at least create a connection with server and 
+start communication between the client and server. 
+
+To run this, simply hit the run button to create the windows and type in the message you want to display. I've made these in
+separate files so you will have to go to the server directory and run it and do it again for the client side. 
